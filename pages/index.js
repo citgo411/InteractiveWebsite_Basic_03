@@ -64,8 +64,8 @@ function ResumeWebsite() {
           >
             <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-lg">
               <Image
-                src="/placeholder.svg?height=192&width=192"
-                alt="Profile Picture"
+                src="/profile-picture.jpeg"
+                alt="Girik Khatta"
                 width={192}
                 height={192}
                 className="w-full h-full object-cover"
